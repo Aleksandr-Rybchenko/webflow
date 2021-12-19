@@ -109,7 +109,7 @@ padding: 22px 0 0 80px;
 .wrapper_second{
     display: flex;
     justify-content: space-between;
-    padding-right: 305px;
+    padding-right: 270px;
 }
 .buy_button:hover{
     background-color: #4353FF;
