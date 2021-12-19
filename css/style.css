@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Lobster&family=Montserrat:wght@300;400;700&display=swap');
+
+
+
+
+.header{
+    display: inline-flex;
+    width: 1440px;
+    text-align: center;
+
+}
+.header-menu, .menu-list, .menu-items{
+    display: inline-flex;
+}
+.header-buttons, .button-login, .button-getstart{
+    display: inline-flex;
+}
+.menu-items a{
+    font-family: 'Fjalla One', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 18px;
+    color: #444444;
+    
+}
+.menu-list{
+    width: 800px;
+    justify-content: space-between;
+    padding-top: 25px;
+    padding-left: 185px;
+}
+.header-logo{
+    width: 185px;
+    padding-top: 16px;
+}
+.img-logo{
+    max-width: 100%;
+}
+.header-buttons{
+  width: 300px;
+   justify-content: end;
+   padding-top: 20px;
+}
+.login-but {
+    border: none;   
+    font-family: 'Fjalla One', sans-serif;
+    background-color: white;
+    
+
+}
+.get-but{
+    border: none;
+    font-family: 'Fjalla One', sans-serif; 
+   background-color: white;
+    padding-left: 20px;
+}
+.login-but:hover{
+    color: rgb(175, 13, 35);
+
+}
+
+.get-but:hover{
+    color: rgb(175, 13, 35);
+
+}
+/* main */
+
+.quillow{
+    font-family: 'Fjalla One', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 38px;
+line-height: 42px;
+color: #000000;
+padding: 45px 0 0 80px;
+}
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+.text{
+    width: 624px;
+    font-family: 'Fjalla One', sans-serif;
+    font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 26px;
+color: #000000;
+padding: 67px 122px 0 0;
+}
+.text_second{
+    font-family: 'Fjalla One', sans-serif;
+    font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 26px;
+color: #000000;
+padding: 22px 0 0 80px;
+}
+
+.buy_button{
+    border: 1px solid #EBEBEB;
+    box-sizing: border-box;
+    border-radius: 50px;
+    height: 62px;
+    font-size: 15px;
+}
+.wrapper_second{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 305px;
+}
+.buy_button:hover{
+    background-color: #4353FF;
+}
+.bton{
+    background: #EAEAEA;
+border: 1px solid #EDEDED;
+box-sizing: border-box;
+border-radius: 0px;
+}
+.bton:hover{
+    background-color: #CCEBD0; 
+    padding: 2px;
+}
+.wrapper_three{
+    padding: 26px 0 0 80px;
+}
+.container{
+    display: flex;
+    padding-top: 60px;
+    justify-content: space-between;
+    width: 1440px;
+}
+.main-img{
+    max-width: 100%;
+}
+.h_2{
+    font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 38px;
+color: #000000;
+padding: 15px;
+
+}
+.container_2{
+    display: flex;
+    justify-content: space-between;
+    padding: 100px 115px 0 80px;
+}
+.buy_button1{
+    border: 1px solid #EBEBEB;
+    box-sizing: border-box;
+    border-radius: 50px;
+    height: 62px;
+    font-size: 15px;
+}
+.container_3{
+    display: flex;
+    justify-content: space-between;
+    padding: 70px 80px 0 80px;
+    height: 278px;
+}
+.img-title{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+}
+.favorite{
+    
+}
+.favobutton{
+    padding-top: 10px;
+}
